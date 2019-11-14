@@ -30,7 +30,7 @@ const client = new AWSAppSyncClient({
   url: 'https://fcaoexa3bnfb3d6okzy6q73isy.appsync-api.ap-northeast-2.amazonaws.com/graphql',
   region: 'ap-northeast-2',
   auth: {
-    type: '6cugkdq2mvbybgs7xgdtmwjiqm',
+    type: 'API_KEY',
     apiKey: 'da2-4fmedphzbbhjfarbpxzmt5fzle',
   }
 })
